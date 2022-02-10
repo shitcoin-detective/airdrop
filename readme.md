@@ -6,7 +6,9 @@ Also, if you want to support me you can follow me on youtube: http://www.youtube
 If you want to contact me here is my Telegram channel: https://t.me/ShitcoinDetective
 
 Or send me some crypto, this is the donation wallet address (BSC, Harmony or ETH): 0x129Fa05c3947FA2501f19FBD3ebFA61d4c2710E0
---INSERT QR CODE--
+
+![image](https://user-images.githubusercontent.com/96479945/153455817-625c94f9-3247-4202-86a6-d2607ed46d0b.png)
+
 Also, if your wallet was compromised, securing it is described in one of these videos: https://www.youtube.com/playlist?list=PL6fWZ_fzME9NuLVOg80JYbBzKQntCejAx
 
 You must secure your wallet before you start using it again. Or create a new wallet.
