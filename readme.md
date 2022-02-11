@@ -45,3 +45,4 @@ You must secure your wallet before you start using it again. Or create a new wal
 | ABOYS | Rocketboys.io | 0xeade8e37700a34b196142d9962858d2a137e6eb8 | https://www.youtube.com/watch?v=i8gj5Jw9q_Y | Dead? 
 | BUSD* | BUSDSWAP.NET | 0xcd0a62a8e7080ffba5373c2c759f896b2518f846 | https://www.youtube.com/watch?v=VMHZrOCvcP0 | Alive
 | BUSD* | BUSDSWAP.IO | 0x3529EAdAcb3375eD37124c40Ada9827A6B0eC2e1 | https://www.youtube.com/watch?v=VMHZrOCvcP0 | Alive
+| gaxy.io | gaxy.io | 0xed61629b32991c8143ec6fae9dd2b90850bf78ec | not yet | Alive
