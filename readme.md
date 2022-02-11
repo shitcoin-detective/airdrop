@@ -46,3 +46,4 @@ You must secure your wallet before you start using it again. Or create a new wal
 | BUSD* | BUSDSWAP.NET | 0xcd0a62a8e7080ffba5373c2c759f896b2518f846 | https://www.youtube.com/watch?v=VMHZrOCvcP0 | Alive
 | BUSD* | BUSDSWAP.IO | 0x3529EAdAcb3375eD37124c40Ada9827A6B0eC2e1 | https://www.youtube.com/watch?v=VMHZrOCvcP0 | Alive
 | gaxy.io | gaxy.io | 0xed61629b32991c8143ec6fae9dd2b90850bf78ec | not yet | Alive
+| MATICSWAP.NET | MATICSWAP.NET | 0x14f2c84a58e065c846c5fdddade0d3548f97a517 | https://www.youtube.com/watch?v=XNR93in-7FI | Alive
