@@ -12,6 +12,7 @@ Or send me some crypto, this is the donation wallet address (BSC, Harmony or ETH
 Also, if your wallet was compromised, securing it is described in one of these videos: https://www.youtube.com/playlist?list=PL6fWZ_fzME9NuLVOg80JYbBzKQntCejAx
 
 You must secure your wallet before you start using it again. Or create a new wallet.
+Note: ? inserted in token names so they don't show as clickable links.
 
 
 | Symbol        | Name          | Address                            | Video |Website       |
@@ -47,3 +48,7 @@ You must secure your wallet before you start using it again. Or create a new wal
 | BUSD* | BUSDSWAP.IO | 0x3529EAdAcb3375eD37124c40Ada9827A6B0eC2e1 | https://www.youtube.com/watch?v=VMHZrOCvcP0 | Alive
 | gaxy.io | gaxy.io | 0xed61629b32991c8143ec6fae9dd2b90850bf78ec | not yet | Alive
 | MATICSWAP.NET | MATICSWAP.NET | 0x14f2c84a58e065c846c5fdddade0d3548f97a517 | https://www.youtube.com/watch?v=XNR93in-7FI | Alive
+| MMdex.io | MMdex.io| 0x841FF1882714552D1D734B88bEEBAb259f30b891 | https://www.youtube.com/watch?v=DImrP6XLGdk | Alive
+| milkyswap.io | milkyswap.io | 0x64F2C2AA04755507a2eCD22ceB8C475B7A750A3a | https://www.youtube.com/watch?v=kUXP6tOGBlQ | Alive
+| 1Farm.io | 1Farm.io | 0x95E9464b5cC3bf81210259812B51665a437AA11b | not yet | ?
+| ww?.xdao.claims | ww?.xdao.claims | 0x341ceE0Ac619A1563e7D3DfBaA1CC3F249332286 | not yet | ?
